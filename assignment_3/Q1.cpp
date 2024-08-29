@@ -55,6 +55,8 @@ c1.getradius();
 c1.setheight(5);
 c1.getheight();
 c1.calculateVolume();
+c1.calculateVolume();
+
 
  
 
